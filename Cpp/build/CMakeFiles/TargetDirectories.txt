@@ -1,6 +1,0 @@
-/home/mohammad/Documents/FaultDetection_Dataset/Cpp/build/CMakeFiles/test.dir
-/home/mohammad/Documents/FaultDetection_Dataset/Cpp/build/CMakeFiles/rebuild_cache.dir
-/home/mohammad/Documents/FaultDetection_Dataset/Cpp/build/CMakeFiles/sample.dir
-/home/mohammad/Documents/FaultDetection_Dataset/Cpp/build/CMakeFiles/edit_cache.dir
-/home/mohammad/Documents/FaultDetection_Dataset/Cpp/build/CMakeFiles/error.dir
-/home/mohammad/Documents/FaultDetection_Dataset/Cpp/build/CMakeFiles/topic.dir
