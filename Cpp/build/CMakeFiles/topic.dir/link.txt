@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtopic.a  CMakeFiles/topic.dir/src/topic.cpp.o
+/usr/bin/ranlib libtopic.a
